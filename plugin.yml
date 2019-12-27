@@ -1,0 +1,5 @@
+name: TelegramBot
+author: alvin0319
+main: TelegramBot\TelegramBot
+version: 1.0.0
+api: 3.0.0
